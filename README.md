@@ -11,11 +11,6 @@ This project was created as part of my learning journey in API testing. It demon
   - Verification of retrieving posts.
   - Test for creating a new post.
 
-## How to run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it under the terms of the license.
